@@ -1,3 +1,3 @@
 # open-police-project
 
-Created for CS109
+Awarded bronze medal in the Probability for Computer Scientists (CS109) Challenge. 
